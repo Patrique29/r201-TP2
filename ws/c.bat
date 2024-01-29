@@ -2,7 +2,7 @@
 @echo on
 javac -d ..\class ..\src\Etudiant.java
 javac -d ..\class ..\src\Testudiant.java
-java Testudiant
+java Etudiant
 @echo off
 pause
 CLS
